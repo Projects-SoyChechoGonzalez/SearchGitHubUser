@@ -8,7 +8,7 @@
     "dev": "vite",
     "lint": "standard",
     "build": "vite build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
