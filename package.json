@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://Projects-SoyChechoGonzalez.github.io/SearchGitHubUser",
+  "homepage": "https://projects-soychechogonzalez.github.io/SearchGitHubUser",
   "scripts": {
     "dev": "vite",
     "lint": "standard",
